@@ -28,4 +28,4 @@ def check_chroma():
         print("   Run: python backend/database/seed_data.py to re-seed")
 
 if __name__ == "__main__":
-    check_chroma()
+    check_chroma() 
